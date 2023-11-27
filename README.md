@@ -9,7 +9,9 @@ This simple React counter application allows users to increment, decrement, and 
 - **Reset:** Set the counter back to zero.
 
 ## How to Run
-1. Clone the repository to your local machine:
+1. npm install-g create-react-app
+2. npm start
+3. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/your-username/react-counter-app.git
    cd react-counter-app
